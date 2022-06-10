@@ -13,4 +13,5 @@ https://t.co/oOjlSoA6Ov
 ### Interview hacks
 
 - What is the diff between Component, Service and DOA Annotations.https://www.java67.com/2022/06/difference-between-component-service-repository-in-spring.html?sc=1654691331632#c1428741061763048345
+- collections 
 - 
