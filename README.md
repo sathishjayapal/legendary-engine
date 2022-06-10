@@ -3,7 +3,12 @@ Notes Engine- Azure templates
 
 ### AZ Storage read links
 - https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json#durability-and-availability-by-out
+- 
 
+### AZ Todos
+
+  
+https://t.co/oOjlSoA6Ov
 
 ### Interview hacks
 
